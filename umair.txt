@@ -1,0 +1,12 @@
+Name: Umair Habib
+Location: Lahore, Pakistan
+Email: Umair.Habib@Smu.ca
+Roll Number: A00476610
+
+About Me:
+I am an experienced Full Stack Developer with a focus on backend development. 
+My journey in the tech world has led me to work with various startups, and I've successfully launched multiple web applications on the cloud. 
+My passion for learning new technologies, especially Big Data and Machine Learning, has always driven me. 
+I chose MCDA to further delve into the world of data analytics and its applications in the business environment.
+
+Favorite Place Visited: The breathtaking valleys of Kashmir, where the majestic mountains and serene lakes paint a picture of tranquility and beauty.
